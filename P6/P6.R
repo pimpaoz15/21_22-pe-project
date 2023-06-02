@@ -1,0 +1,1 @@
+# Este exercício é só de resposta, não é preciso plots nem ficheiros PDFs escritos

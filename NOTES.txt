@@ -1,0 +1,2 @@
+# To run, open a new terminal in VSCode Command + Enter to process Lines of code
+# All data will be saved on the Global Environment, under Workspace in the R code section
