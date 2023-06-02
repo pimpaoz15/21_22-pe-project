@@ -1,0 +1,3 @@
+O pdf com o código e os gráficos é mais fácil de fazer na horizontal porque fica com mais espaço.
+
+Nos problemas 5, 7 e 8, o resultado pedido tem que ser escrito com vírgula, em vez de ponto (ex: 0,123456).
